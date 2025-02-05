@@ -1,0 +1,1 @@
+This is a start page project that was assigned for javascript class. There needs to be functionality but also needs to look good.![image](https://github.com/user-attachments/assets/5b16d0df-0e70-451c-9724-2cc750c2d94c)
